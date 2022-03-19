@@ -1,6 +1,7 @@
 {
   "name": "nukaworks-website",
   "version": "1.0.1",
+  "homepage": "https://nuka.works/",
   "private": true,
   "scripts": {
     "serve": "vite --host",
